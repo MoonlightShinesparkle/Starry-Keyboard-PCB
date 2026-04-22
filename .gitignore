@@ -1,0 +1,8 @@
+*.lck
+Pico2WKeyboard-backups/*
+production/*
+~*
+.DS_Store
+fabrication-toolkit-options.json
+fp-info-cache
+*.kicad_prl
