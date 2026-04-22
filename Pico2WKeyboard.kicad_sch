@@ -5718,6 +5718,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C393938"
+			(at 68.58 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "33c9db1c-3268-4e4e-a00f-1edb62c2f087")
 		)
@@ -5810,6 +5821,17 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 83.82 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C402212"
 			(at 83.82 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -5922,6 +5944,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C402212"
+			(at 68.58 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "9875df21-d803-42d0-9b45-3559b263d319")
 		)
@@ -5980,7 +6013,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8550723991833485312"
 			(at 189.23 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -6003,6 +6036,17 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 189.23 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2286"
 			(at 189.23 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -6115,6 +6159,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C402212"
+			(at 83.82 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "08a7e132-a6d0-4e2e-94af-65bb0dd1af85")
 		)
@@ -6174,7 +6229,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706223213461504"
 			(at 170.18 24.13 0)
 			(hide yes)
 			(show_name no)
@@ -6186,6 +6241,17 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 170.18 24.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C23138"
 			(at 170.18 24.13 0)
 			(hide yes)
 			(show_name no)
@@ -6255,7 +6321,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706381320323072"
 			(at 64.77 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -6267,6 +6333,17 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 64.77 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C25804"
 			(at 64.77 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -6514,6 +6591,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C393938"
+			(at 68.58 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "24d2e839-b090-4cd2-aa8a-d447fe79e7c5")
 		)
@@ -6652,7 +6740,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706223213461504"
 			(at 196.85 24.13 0)
 			(hide yes)
 			(show_name no)
@@ -6664,6 +6752,17 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 196.85 24.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C23138"
 			(at 196.85 24.13 0)
 			(hide yes)
 			(show_name no)
@@ -6776,6 +6875,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C402212"
+			(at 38.1 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "3facf925-6f0f-482a-aa62-b66f00bc5be2")
 		)
@@ -6834,7 +6944,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C389522.pdf?spm=wm.sxq.inf.ggs___wm.ddx.0.xqy&lcsc_vid=FAdXVAUDRgJbVV1eQFdbAgJSQ1MMBVcAEVILBlECE1cxVlNRQVZcVF1STllbXzsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhYS"
 			(at 109.22 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -6857,6 +6967,17 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 109.22 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C389522"
 			(at 109.22 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -7025,6 +7146,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C393938"
+			(at 83.82 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "82b16548-61bc-4f9c-8a98-1013ff034761")
 		)
@@ -7127,6 +7259,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C402212"
+			(at 22.86 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b15c7e12-abd6-45bf-a64a-c63dff34ce50")
 		)
@@ -7197,6 +7340,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 53.34 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C393938"
 			(at 53.34 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -7309,6 +7463,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C402212"
+			(at 38.1 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d1565730-7a9e-4c6a-8d37-5208ee4ec549")
 		)
@@ -7411,6 +7576,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C402212"
+			(at 22.86 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "2dcc5f7b-8785-48b2-aa41-09a4721a9076")
 		)
@@ -7481,6 +7657,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 83.82 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C393938"
 			(at 83.82 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -7629,7 +7816,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579707269996871680"
 			(at 49.53 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -7641,6 +7828,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 49.53 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C1525"
 			(at 49.53 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -7809,6 +8007,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C393938"
+			(at 22.86 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "58b63df5-3a57-4da3-8502-58b2b549c2dd")
 		)
@@ -7868,7 +8077,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706223213461504"
 			(at 142.24 24.13 0)
 			(hide yes)
 			(show_name no)
@@ -7880,6 +8089,17 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 142.24 24.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C23138"
 			(at 142.24 24.13 0)
 			(hide yes)
 			(show_name no)
@@ -8070,6 +8290,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C402212"
+			(at 53.34 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "30e8293d-c52d-4243-b84a-7d444f251503")
 		)
@@ -8172,6 +8403,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C402212"
+			(at 68.58 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f3fd79ce-1394-4db8-be43-6073968a83eb")
 		)
@@ -8264,6 +8506,17 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 83.82 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C402212"
 			(at 83.82 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -8455,6 +8708,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C402212"
+			(at 53.34 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "2fb7d399-1782-4701-a43b-b6637eed0e73")
 		)
@@ -8525,6 +8789,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 53.34 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C393938"
 			(at 53.34 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -8637,6 +8912,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C402212"
+			(at 53.34 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "4e24ab67-37fb-4ab0-b175-444c62d3d0b2")
 		)
@@ -8696,7 +8982,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706381320323072"
 			(at 81.28 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -8708,6 +8994,17 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 81.28 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C25804"
 			(at 81.28 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -8798,6 +9095,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C393938"
+			(at 38.1 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "682665bc-66f8-45a5-8156-9f0d25246e1c")
 		)
@@ -8868,6 +9176,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 83.82 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C393938"
 			(at 83.82 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -8980,6 +9299,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C402212"
+			(at 38.1 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "65056639-fa41-4ed8-993b-63372ba66e25")
 		)
@@ -9082,6 +9412,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C402212"
+			(at 22.86 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "97173fed-35a5-4996-84e4-6a8ce498dcd0")
 		)
@@ -9152,6 +9493,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 38.1 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C393938"
 			(at 38.1 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -9264,6 +9616,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C402212"
+			(at 68.58 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "66d645d1-c229-4a9a-b2e1-4d21f7c807c7")
 		)
@@ -9334,6 +9697,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 53.34 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C393938"
 			(at 53.34 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -9446,6 +9820,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C402212"
+			(at 22.86 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "746a6c70-cbb1-4548-bfaf-e0af6d0ebd77")
 		)
@@ -9505,7 +9890,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706381320323072"
 			(at 35.56 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -9517,6 +9902,17 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 35.56 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C25804"
 			(at 35.56 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -9629,6 +10025,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C402212"
+			(at 22.86 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "5c97736a-5968-43c3-8a1c-0aca5e159ad8")
 		)
@@ -9709,6 +10116,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C393938"
+			(at 22.86 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "67b92c2d-15a7-4511-9f20-dd0185e46e80")
 		)
@@ -9767,7 +10185,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8550723991833485312"
 			(at 162.56 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -9790,6 +10208,17 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 162.56 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2286"
 			(at 162.56 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -9981,6 +10410,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C402212"
+			(at 38.1 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f8fa7bde-d2b6-4158-89f3-280c7f791263")
 		)
@@ -10073,6 +10513,17 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 83.82 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C402212"
 			(at 83.82 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -10241,6 +10692,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C393938"
+			(at 83.82 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "fffd1d26-a93d-43e7-b570-5155fedb7f61")
 		)
@@ -10399,6 +10861,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C393938"
+			(at 38.1 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d3b9e67e-8616-455c-94f4-fa1a17cfda3d")
 		)
@@ -10469,6 +10942,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 38.1 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C393938"
 			(at 38.1 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -10559,6 +11043,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C393938"
+			(at 53.34 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d709fc03-b1a7-4c6c-be19-64009f31d4fb")
 		)
@@ -10617,7 +11112,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8550723991833485312"
 			(at 137.16 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -10640,6 +11135,17 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 137.16 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2286"
 			(at 137.16 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -10808,6 +11314,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C393938"
+			(at 22.86 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "47233a31-4c80-43ba-9cb8-07c42454222d")
 		)
@@ -10867,7 +11384,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706381320323072"
 			(at 81.28 194.31 0)
 			(hide yes)
 			(show_name no)
@@ -10879,6 +11396,17 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 81.28 194.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C25804"
 			(at 81.28 194.31 0)
 			(hide yes)
 			(show_name no)
@@ -11027,7 +11555,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706381320323072"
 			(at 50.8 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -11039,6 +11567,17 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 50.8 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C25804"
 			(at 50.8 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -11151,6 +11690,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C402212"
+			(at 68.58 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "45c7314c-993c-4f79-bfe4-6b10e3246db5")
 		)
@@ -11231,6 +11781,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C393938"
+			(at 22.86 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d059527e-ca0e-470b-b6ae-8f1ea1c4c05e")
 		)
@@ -11301,6 +11862,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 68.58 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C393938"
 			(at 68.58 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -11492,6 +12064,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C402212"
+			(at 38.1 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "532af2ee-acda-478b-a50a-c2a3e43ae0c8")
 		)
@@ -11672,6 +12255,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C402212"
+			(at 53.34 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "5f487412-0803-4973-bfaa-84bd94a32735")
 		)
@@ -11752,6 +12346,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C393938"
+			(at 83.82 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6f1d052d-7b66-497e-804d-3ed3e9cd70f3")
 		)
@@ -11811,7 +12416,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706381320323072"
 			(at 58.42 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -11823,6 +12428,17 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 58.42 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C25804"
 			(at 58.42 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -11935,6 +12551,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C402212"
+			(at 68.58 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "10748b10-ca5b-422f-86c9-7fb8474ef599")
 		)
@@ -12037,6 +12664,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C402212"
+			(at 83.82 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "84e89695-5e3f-4799-abeb-00fc4edeaf1c")
 		)
@@ -12096,7 +12734,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706223213461504"
 			(at 113.03 24.13 0)
 			(hide yes)
 			(show_name no)
@@ -12108,6 +12746,17 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 113.03 24.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C23138"
 			(at 113.03 24.13 0)
 			(hide yes)
 			(show_name no)
@@ -12220,6 +12869,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C402212"
+			(at 53.34 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "956399c8-c4f5-46b8-bd76-082c1dcb3281")
 		)
@@ -12279,7 +12939,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706381320323072"
 			(at 43.18 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -12291,6 +12951,17 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 43.18 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C25804"
 			(at 43.18 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -12381,6 +13052,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C393938"
+			(at 53.34 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ab3404ed-56c3-4128-9748-9d5c30bf62b1")
 		)
@@ -12461,6 +13143,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C393938"
+			(at 22.86 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0ff85781-9210-489f-8888-3df1bd2e55e6")
 		)
@@ -12531,6 +13224,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 68.58 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C393938"
 			(at 68.58 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -12679,7 +13383,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://datasheets.raspberrypi.com/picow/pico-w-datasheet.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8552475387427897344"
 			(at 149.86 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -12692,6 +13396,17 @@
 		)
 		(property "Description" "Versatile and inexpensive wireless microcontroller module powered by RP2040 dual-core Arm Cortex-M0+ processor up to 133 MHz, 264kB SRAM, 2MB QSPI flash, Infineon CYW43439 2.4GHz 802.11n wireless LAN; also supports Raspberry Pi Pico 2 W"
 			(at 149.86 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C42394205"
+			(at 149.86 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12896,6 +13611,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C18723551"
+			(at 30.48 180.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "7"
 			(uuid "68bbf631-98cf-4ef1-b152-5e2ab5f79744")
 		)
@@ -12984,6 +13710,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 38.1 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C393938"
 			(at 38.1 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -13142,6 +13879,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 68.58 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C393938"
 			(at 68.58 36.83 0)
 			(hide yes)
 			(show_name no)
